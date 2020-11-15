@@ -1,0 +1,43 @@
+h1 {
+    font-family: 'Spectral SC', serif;
+    font-size: xx-large;
+}
+
+a {
+    color: #ff0099;
+}
+
+nav { 
+    background-color: #333333;
+    font-size: large;
+}
+
+.navi {
+    display: inline;
+    float: right;
+    margin-right: 200px;
+}
+
+.def {
+    color: #ff0099;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.content {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("assets/topography.png");
+    padding: 10%;
+    margin: 0%;
+    line-height: 1.6em;
+}
+
+hr{
+    border-top: dashed 5px;
+    margin-right: 650px;
+    margin-left: 650px;
+}
+
+#logo{
+    margin-left: 165px;
+}
